@@ -1,0 +1,26 @@
+Sep  5 23:15:25 rockywasqa1 sendprodmial[31180]: v866FPHk031178: to=<rjose>,<teott_qa@sedence.com>, delay=00:00:00, xdelay=00:00:00, prodmialer=relay, pri
+=150521, relay=dbprodmial.sedence.com. [192.168.48.52], dsn=2.0.0, stat=Sent (<535109605.01504678525169.JavaMail.wbsphere@rockywasqa1> [InternalId=4917
+737560627, Hostname=prodmialdb7.global.sedence.com] Queued prodmial for delivery)
+Sep  5 23:18:15 rockywasqa1 sendprodmial[31544]: v866IFdx031544: from=<teott_qa@sedence.com>, size=3540, class=0, nrcpts=2, msgid=<1162691917.11504678
+695453.JavaMail.wbsphere@rockywasqa1>, proto=ESMTP, daemon=MTA, relay=localhost.localdomain [127.0.0.1]
+Sep  5 23:18:15 rockywasqa1 sendprodmial[31546]: STARTTLS=client, relay=dbprodmial.sedence.com., version=TLSv1/SSLv3, verify=FAIL, cipher=AES256-SHA, bits
+=256/256
+Sep  5 23:18:15 rockywasqa1 sendprodmial[31546]: v866IFdx031544: to=<rjose>,<teott_qa@sedence.com>, delay=00:00:00, xdelay=00:00:00, prodmialer=relay, pri
+=153540, relay=dbprodmial.sedence.com. [192.168.48.52], dsn=2.0.0, stat=Sent (<1162691917.11504678695453.JavaMail.wbsphere@rockywasqa1> [InternalId=215
+09196225801, Hostname=exchjrnl-dbda.global.sedence.com] Queued prodmial for delivery)
+Sep  6 00:00:17 rockywasqa1 sendprodmial[3844]: v8670HgO003844: from=<teott_qa@sedence.com>, size=903, class=0, nrcpts=2, msgid=<112395955.21504681217
+630.JavaMail.wbsphere@rockywasqa1>, proto=ESMTP, daemon=MTA, relay=localhost.localdomain [127.0.0.1]
+Sep  6 00:00:17 rockywasqa1 sendprodmial[3846]: STARTTLS=client, relay=dbprodmial.sedence.com., version=TLSv1/SSLv3, verify=FAIL, cipher=AES256-SHA, bits=
+256/256
+Sep  6 00:00:17 rockywasqa1 sendprodmial[3846]: v8670HgO003844: to=<ExpireLicenseNotificationTest@prodmialdb1.sedence.com>,<teott_qa@sedence.com>, delay=0
+0:00:00, xdelay=00:00:00, prodmialer=relay, pri=150903, relay=dbprodmial.sedence.com. [192.168.48.52], dsn=2.0.0, stat=Sent (<112395955.21504681217630.Ja
+vaMail.wbsphere@rockywasqa1> [InternalId=4922032521694, Hostname=prodmialdb6.global.sedence.com] Queued prodmial for delivery)
+Sep  6 00:00:22 rockywasqa1 sendprodmial[3847]: v8670MUC003847: from=<teott_qa@sedence.com>, size=908, class=0, nrcpts=2, msgid=<1466849134.3150468122
+2030.JavaMail.wbsphere@rockywasqa1>, proto=ESMTP, daemon=MTA, relay=localhost.localdomain [127.0.0.1]
+Sep  6 00:00:22 rockywasqa1 sendprodmial[3849]: STARTTLS=client, relay=dbprodmial.sedence.com., version=TLSv1/SSLv3, verify=FAIL, cipher=AES256-SHA, bits=
+256/256
+Sep  6 00:00:22 rockywasqa1 sendprodmial[3849]: v8670MUC003847: to=<ExpireLicenseNotificationTest@prodmialdb1.sedence.com>,<teott_qa@sedence.com>, delay=0
+0:00:00, xdelay=00:00:00, prodmialer=relay, pri=150908, relay=dbprodmial.sedence.com. [192.168.48.52], dsn=2.0.0, stat=Sent (<1466849134.31504681222030.J
+avaMail.wbsphere@rockywasqa1> [InternalId=4922032521786, Hostname=prodmialdb7.global.sedence.com] Queued prodmial for delivery)
+
+
