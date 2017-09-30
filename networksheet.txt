@@ -1,0 +1,9 @@
+Total active entries from all ports = 312
+MAC Address     Port      Age      VLAN    Type
+
+0004.5G0B.54DA 11/40        0       174
+24B6.FGG8.05EC  10/7        0       174
+MAC Address     Port      Age      VLAN    Type
+
+
+45B6.FUT8.009C  10/7        0       174
